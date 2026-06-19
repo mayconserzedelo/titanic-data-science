@@ -180,8 +180,8 @@ Economics graduate transitioning into Data Science
 Currently studying Python, SQL, ETL, pandas, and NumPy
 
 - GitHub: [mayconserzedelo](https://github.com/mayconserzedelo)
-- LinkedIn: add your profile link here
-- Email: add your contact here
+- LinkedIn: https://www.linkedin.com/in/maycon-serzedelo-854972215/
+- Email: serzedelomaycon@gmail.com
 
 ---
 
